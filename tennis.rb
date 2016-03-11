@@ -1,4 +1,4 @@
-require_relative 'tennis_game1'
+require_relative 'lib/tennis_game1'
 
 class TennisGame2
   def initialize(player1Name, player2Name)
